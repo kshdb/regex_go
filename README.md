@@ -1,5 +1,5 @@
 # regex_go
-golang与Per5和.net兼容的正则处理包
+由于golang标准库regexp不支持per语法，由于之前又搞过多年c#,所以比两者整理了一份 golang与Per5和.net兼容的正则处理包，如果对您有用请赏个star!
 
 #### 比较regexp和regex_go
 
