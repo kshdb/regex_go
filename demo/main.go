@@ -13,7 +13,7 @@ func main() {
 	fmt.Println("执行的结果是", m, _err)
 
 	_srt1 := `
-hooudunren.com 
+hooudcnwtn.com 
 hooeeoooeeeeeen.com 
 www.oo234r44.ss.com 
 hoo666666.com
