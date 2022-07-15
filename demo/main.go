@@ -25,6 +25,9 @@ hoo666666.com
 
 }
 
+/*
+获取批量
+*/
 func regexp2FindAllString(re *regex.Regexp, s string) []string {
 	var matches []string
 	m, _ := re.FindStringMatch(s)
